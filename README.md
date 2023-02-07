@@ -1,1 +1,3 @@
-# android_study_center
+# Central de estudos Android.
+
+## Repositório para guardar links importantes sobre Android e seus conceitos.
