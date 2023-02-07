@@ -8,5 +8,5 @@
 
 ### Network
 
-* [Retrofit]([https://www.techyourchance.com/dependency-injection-android/](https://www.digitalocean.com/community/tutorials/retrofit-android-example-tutorial))
-* [Testes unitários de rede com mock web server]([https://www.techyourchance.com/dagger-vs-hilt-vs-koin-vs-pure-dependency-injection/](https://proandroiddev.com/testing-retrofit-converter-with-mock-webserver-50f3e1f54013))
+* [Retrofit](https://www.digitalocean.com/community/tutorials/retrofit-android-example-tutorial)
+* [Testes unitários de rede com mock web server](https://www.techyourchance.com/dagger-vs-hilt-vs-koin-vs-pure-dependency-injection/)
